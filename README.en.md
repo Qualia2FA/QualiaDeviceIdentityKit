@@ -2,7 +2,7 @@
 
 # QualiaDeviceIdentityKit
 
-[简体中文](README.md) | English
+[简体中文](https://github.com/Qualia2FA/QualiaDeviceIdentityKit/blob/master/README.md) | English
 
 A device identity toolkit: **P-256 device identity primitives** plus **platform-native
 hardware keystores**.
@@ -11,7 +11,7 @@ hardware keystores**.
 [![Releases](https://img.shields.io/github/downloads/Qualia2FA/QualiaDeviceIdentityKit/total?logo=github&label=Downloads)][Releases]
 [![crates.io](https://img.shields.io/crates/d/qualia-dik?logo=crates.io&label=crates.io+Downloads)][crates.io]
 
-[License]: LICENSE
+[License]: https://github.com/Qualia2FA/QualiaDeviceIdentityKit/blob/master/LICENSE
 
 [Releases]: https://github.com/Qualia2FA/QualiaDeviceIdentityKit/releases
 
@@ -233,7 +233,7 @@ The `CRATES_IO_PUBLISH_KEY` secret (a crates.io API token with the `publish-new`
 
 ## License
 
-LGPL-3.0-or-later; see [LICENSE](LICENSE) and [COPYING.LESSER](COPYING.LESSER).
+LGPL-3.0-or-later; see [LICENSE](https://github.com/Qualia2FA/QualiaDeviceIdentityKit/blob/master/LICENSE) and [COPYING.LESSER](https://github.com/Qualia2FA/QualiaDeviceIdentityKit/blob/master/COPYING.LESSER).
 
 LGPL rather than MIT/Apache is deliberate: this crate handles the private keys behind a
 device identity, so any modification should come back as source that can be audited.

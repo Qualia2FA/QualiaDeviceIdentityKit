@@ -1,6 +1,6 @@
 [package]
 name = "qualia-dik"
-version = "0.1.3"
+version = "0.1.4"
 edition = "2024"
 rust-version = "1.89"
 license = "LGPL-3.0-or-later"
@@ -8,7 +8,7 @@ description = "Device identity kit: P-256 device identity primitives and platfor
 repository = "https://github.com/Qualia2FA/QualiaDeviceIdentityKit"
 keywords = ["ecdsa", "p256", "keystore", "tpm", "identity"]
 categories = ["cryptography", "hardware-support"]
-readme = "README.md"
+readme = "README.en.md"
 # CI configuration and the dependency audit manifest are not part of the
 # published package: they are meaningless to users, and the size and contents of
 # a crates.io package are publicly visible.
